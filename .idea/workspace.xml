@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5353137-61dc-459d-b609-330e9ec7a392" name="Changes" comment="background">
-      <change afterPath="$PROJECT_DIR$/.idea/blastxiaol.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/ionicons.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.fancybox.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/modernizr-2.6.2.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/slider.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js.download" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main_page/background.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main_page/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main_page/welcome_picture.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/selfish/self.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/personal_page_cn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/personal_page_en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,20 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/myproject/blastxiaol.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Administrator\\Desktop\\myproject\\blastxiaol.github.io\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/myproject/blastxiaol.github.io",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\Administrator\\Desktop\\myproject\\blastxiaol.github.io\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -88,7 +63,8 @@
       <updated>1653144678908</updated>
       <workItem from="1653144685290" duration="9046000" />
       <workItem from="1653203101276" duration="6979000" />
-      <workItem from="1653329183370" duration="3129000" />
+      <workItem from="1653329183370" duration="3474000" />
+      <workItem from="1653494754904" duration="1958000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1653144817026</created>
@@ -118,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653146271829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="background">
+      <created>1653332377293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653332377293</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
