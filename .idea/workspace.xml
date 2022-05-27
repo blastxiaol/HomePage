@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5353137-61dc-459d-b609-330e9ec7a392" name="Changes" comment="background">
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/modernizr-2.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/CV-zhenxianglin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/main_page/rikka.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/3dvg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/9517.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/long_tail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.fancybox.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.fancybox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/modernizr-2.6.2.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/owl.carousel.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/slider.js.download" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/wow.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main_page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/main_page/welcome_picture.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/main_page/neko.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/personal_page_en.html" beforeDir="false" />
-    </list>
+    <list default="true" id="b5353137-61dc-459d-b609-330e9ec7a392" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +70,7 @@
       <workItem from="1653329183370" duration="3474000" />
       <workItem from="1653494754904" duration="6728000" />
       <workItem from="1653545550478" duration="13193000" />
-      <workItem from="1653663782663" duration="6096000" />
+      <workItem from="1653663782663" duration="6451000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1653144817026</created>
@@ -147,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653548482322</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init">
+      <created>1653670964473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653670964473</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="delete" />
     <MESSAGE value="background" />
-    <option name="LAST_COMMIT_MESSAGE" value="background" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
