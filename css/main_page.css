@@ -1,7 +1,7 @@
 body {
     background: url("../images/main_page/background.jpeg") center;
     background-repeat: no-repeat;
-    background-size: 2500px auto;
+    background-size: 6000px auto;
 }
 
 .circle{
@@ -9,7 +9,7 @@ body {
     height:120px;
     border-radius: 100%;
     overflow: hidden;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     margin: auto;
 }
 
@@ -46,24 +46,24 @@ body {
 .target {
     /*border: 1px solid black;*/
     box-sizing: border-box;
-    float: left;
-    width: 50%;
-    /*margin: auto;*/
+    /*float: left;*/
+    width: 25%;
+    margin: auto;
     text-align: center;
     position: relative;
     border-top: 1px;
     border-bottom: 1px;
 }
 
-#p1 {
-    /*position: absolute;*/
-    right: 20px;
-}
+/*#p1 {*/
+/*    !*position: absolute;*!*/
+/*    right: 20px;*/
+/*}*/
 
-#p2 {
-    /*position: absolute;*/
-    left: 20px;
-}
+/*#p2 {*/
+/*    !*position: absolute;*!*/
+/*    left: 20px;*/
+/*}*/
 
 a {
     color: #555555;
