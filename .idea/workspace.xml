@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5353137-61dc-459d-b609-330e9ec7a392" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/docs/COMP9517_Project_report.pdf" afterDir="false" />
+    <list default="true" id="b5353137-61dc-459d-b609-330e9ec7a392" name="Changes" comment="add pdf">
+      <change afterPath="$PROJECT_DIR$/docs/COMP9991_Project_report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CV-zhenxianglin.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/CV-zhenxianglin.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <workItem from="1653545550478" duration="13193000" />
       <workItem from="1653663782663" duration="8976000" />
       <workItem from="1654758311623" duration="5623000" />
-      <workItem from="1655985306611" duration="1839000" />
+      <workItem from="1655985306611" duration="2680000" />
     </task>
     <task id="LOCAL-00001" summary="delete">
       <created>1653144817026</created>
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654770460294</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add pdf">
+      <created>1655988638792</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655988638792</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +232,7 @@
     <MESSAGE value="delete" />
     <MESSAGE value="background" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pdf" />
   </component>
 </project>
